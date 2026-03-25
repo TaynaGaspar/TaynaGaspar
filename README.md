@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou a Tayna Gaspar  
 
-🎯 **Analista de Dados em desenvolvimento**  
+🎯 **Analista em desenvolvimento**  
 💼 Foco em Power BI, SQL, Excel e automação de relatórios  
 📊 Transformando dados em insights e decisões estratégicas  
 
